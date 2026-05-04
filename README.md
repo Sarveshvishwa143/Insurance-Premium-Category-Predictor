@@ -30,6 +30,7 @@ Built with a production-style architecture:
 ├── requirements.txt
 └── README.md
 
+
 ---
 
 ## ⚙️ Setup Instructions
@@ -37,7 +38,7 @@ Built with a production-style architecture:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/insurance-premium-predictor.git
+git clone https://github.com/Sarveshvishwa143/Insurance-Premium-Category-Predictor
 cd insurance-premium-predictor
 ```
 
